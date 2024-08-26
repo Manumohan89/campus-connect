@@ -1,0 +1,10 @@
+psycopg2-binary==2.9.3
+python-telegram-bot==13.7
+requests==2.26.0
+python-dotenv==0.19.2
+bcrypt==3.2.0
+openpyxl==3.0.9
+reportlab==3.6.2
+apscheduler==3.8.1
+aspose-pdf==22.2.0
+twilio==6.62.0
