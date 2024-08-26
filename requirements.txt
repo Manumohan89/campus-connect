@@ -6,5 +6,4 @@ bcrypt==3.2.0
 openpyxl==3.0.9
 reportlab==3.6.2
 apscheduler==3.8.1
-aspose-pdf==21.9.0
 twilio==6.62.0
